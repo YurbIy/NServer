@@ -1,0 +1,1 @@
+﻿alert(JSON.stringify(<span>asdf</span));
